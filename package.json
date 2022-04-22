@@ -17,6 +17,6 @@
     "webpack": "^4.46.0"
   },
   "devDependencies": {
-    "@faker-js/faker": "^6.0.0-alpha.7"
+    "@faker-js/faker": "^6.2.0"
   }
 }
